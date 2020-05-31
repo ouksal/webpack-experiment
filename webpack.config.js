@@ -1,9 +1,3 @@
-/**
- * TODO: read this:
- *  https://github.com/jantimon/html-webpack-plugin/issues/1383
- *  https://github.com/TypeStrong/fork-ts-checker-webpack-plugin
- */
-
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
